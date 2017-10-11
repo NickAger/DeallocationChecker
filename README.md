@@ -1,6 +1,6 @@
 # DeallocationChecker
 
-Learn about leaking view controllers without opening Instruments.
+Learn about leaking view controllers without opening Instruments. See http://holko.pl/2017/06/26/checking-uiviewcontroller-deallocation/
 
 ## Usage
 
